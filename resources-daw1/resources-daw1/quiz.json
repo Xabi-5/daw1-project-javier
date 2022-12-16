@@ -1,0 +1,38 @@
+{
+    "quiz": {
+        "html": {
+            "q1": {
+                "question": "HTML document must always be saved with which of the following?",
+                "options": [
+                    ".html",
+                    ".doc",
+                    ".htm",
+                    "both .html and .htm"
+                ],
+                "answer": "both .html and .htm"
+            }
+        },
+        "css": {
+            "q1": {
+                "question": "Which of the following CSS property is used to set the backgroun image of an element?",
+                "options": [
+                    "background-color",
+                    "background-image",
+                    "background-attachment",
+                    "none"
+                ],
+                "answer": "background-image"
+            },
+            "q2": {
+                "question": "How to select the elements with the class name example?",
+                "options": [
+                    "example",
+                    "#example",
+                    "class example",
+                    ".example"
+                ],
+                "answer": ".example"
+            }
+        }
+    }
+}

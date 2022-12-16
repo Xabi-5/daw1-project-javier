@@ -1,0 +1,15 @@
+Given "XML Items" below, select the namespace to which the Id attribute belongs.
+
+"XML Items"
+<ItemList xmlns="urn:example:Item"
+        xmlns:Item01="urn:example:Item01">
+  <Item01:ItemInformation Id="X01-0001">
+    <ItemName>XML SchemaProblemSet1</ItemName>
+    <Price>1200</Price>
+  </Item01:ItemInformation>
+</ItemList>
+
+ 1. ItemInfo
+ 2. urn:example:Item
+ 3. urn:example:Item01
+ 4. The Id attribute does not belong to a namespace
